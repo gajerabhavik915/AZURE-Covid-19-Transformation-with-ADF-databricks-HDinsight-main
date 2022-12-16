@@ -1,0 +1,22 @@
+[
+    {
+        "sourceBaseURL":" https://ecdc.blob.core.windows.net",
+        "sourceRelativeURL":"covid19/cases_deaths.csv",
+        "sinkFileName":"cases_deaths.csv"
+    },
+    {
+        "sourceBaseURL":" https://ecdc.blob.core.windows.net",
+        "sourceRelativeURL":"covid19/hospital_admissions.csv",
+        "sinkFileName":"hospital_admissions.csv"
+    },
+    {
+        "sourceBaseURL":" https://ecdc.blob.core.windows.net",
+        "sourceRelativeURL":"covid19/testing.csv",
+        "sinkFileName":"testing.csv"
+    },
+    {
+        "sourceBaseURL":" https://ecdc.blob.core.windows.net",
+        "sourceRelativeURL":"covid19/country_response.csv",
+        "sinkFileName":"country_response.csv"
+    }
+]
